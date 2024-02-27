@@ -1,0 +1,9 @@
+{
+  "name": "goomusic-backend",
+  "version": "0.0.1",
+  "description": "API for goomusic",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "GPL-3.0-only"
+}
